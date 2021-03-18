@@ -1,6 +1,7 @@
 # instafollow
 
-Создание парсера данных Instagram.
+Создание парсера данных Instagram. 
+Scrapy.
 
 Ресурс: Instagram.
 Задачи:
